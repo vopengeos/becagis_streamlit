@@ -4,6 +4,7 @@
 A BecaGIS Streamlit geospatial application inspired by [streamlit-geospatial](https://github.com/giswqs/streamlit-geospatial). It can be deployed to [Streamlit Cloud](https://streamlit.io/cloud), [Heroku](https://heroku.com/), or [MyBinder](https://mybinder.org/).
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thangqd/becagis_streamlit/HEAD)
+[![image](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 - Web app: <https://becagis.streamlit.app> | <https://streamlit.becagis.vn>
 - Source code: <https://github.com/thangqd/becagis_streamlit>
